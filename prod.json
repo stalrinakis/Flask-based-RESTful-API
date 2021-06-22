@@ -1,0 +1,50 @@
+{ 
+  "name": "name1",
+  "description": "desc1",
+  "price": 5,
+  "category": "cat1",
+  "ID": "id1",
+  "stock": 7
+}{
+  "name": "name1",
+  "description": "desc1",
+  "price": 2,
+  "category": "cat1",
+  "ID": "id2",
+  "stock": 3
+}{
+  "name": "name2",
+  "description": "desc1",
+  "price": 18,
+  "category": "cat1",
+  "ID": "id3",
+  "stock": 5
+}{
+  "name": "name2",
+  "description": "desc1",
+  "price": 10,
+  "category": "cat2",
+  "ID": "id5",
+  "stock": 10
+}{
+  "name": "name4",
+  "description": "desc1",
+  "price": 22,
+  "category": "cat5",
+  "ID": "id6",
+  "stock": 0
+}{
+  "name": "name2 test",
+  "description": "desc1",
+  "price": 2,
+  "category": "cat5",
+  "ID": "id9",
+  "stock": 1
+}{
+  "name": "test2",
+  "price": 52,
+  "description": "desc13",
+  "category": "cat523",
+  "stock": 5,
+  "ID": "id11"
+}

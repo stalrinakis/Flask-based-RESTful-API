@@ -1,0 +1,38 @@
+{
+
+  "email": "user2@mail.net",
+  "name": "user2",
+  "password": "password2",
+  "category": "user",
+  "orderHistory": {}
+}{
+  "_id": {
+    "$oid": "60bff0abcff71e1db69804b5"
+  },
+  "email": "user3@mail.net",
+  "name": "user3",
+  "password": "password3",
+  "category": "admin",
+  "orderHistory": {}
+}{
+  "email": "user1@mail.net",
+  "name": "user1",
+  "password": "password1",
+  "category": "user",
+  "orderHistory": {
+    "order3": {
+      "id1": 4,
+      "id2": 4,
+      "Total Price:": "28"
+    },
+    "order2": {
+      "id1": 6,
+      "Total Price:": "30"
+    },
+    "order1": {
+      "id2": 2,
+      "id1": 2,
+      "Total Price:": "14"
+    }
+  }
+}
